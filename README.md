@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-melisa
-- 👀 I’m interested in web development and networking 
-- 🌱 I’m currently learning HTML,CSS and JavaScript 
+- 👀 I’m interested in web development and UI/UX design 
+- 🌱 I’m currently learning HTML, CSS and how to use Figma 
 - 💞️ I’m looking to collaborate on creating web development pages
 - 📫 How to reach me 0110932086
 
